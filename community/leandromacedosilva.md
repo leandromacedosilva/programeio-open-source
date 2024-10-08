@@ -6,4 +6,5 @@
 
 ![Badge](https://img.shields.io/static/v1?label=HTML&message=Stack-FrontEnd&color=orange&style=for-the-badge&logo=HTML)
 ![Badge](https://img.shields.io/static/v1?label=CSS&message=Stack-FrontEnd&color=blue&style=for-the-badge&logo=CSS)
+![Badge](https://img.shields.io/static/v1?label=Javascript&message=Stack-FrontEnd&color=yellow&style=for-the-badge&logo=JS)
 </div>
