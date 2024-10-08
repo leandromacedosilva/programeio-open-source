@@ -4,6 +4,6 @@
 
 <div>
 
-![Badge](https://img.shields.io/static/v1?label=HTML&message=Stack-FrontEnd&color=blue&style=for-the-badge&logo=HTML)
+![Badge](https://img.shields.io/static/v1?label=HTML&message=Stack-FrontEnd&color=#ea580c&style=for-the-badge&logo=HTML)
 ![Badge](https://img.shields.io/static/v1?label=CSS&message=Stack-FrontEnd&color=blue&style=for-the-badge&logo=CSS)
 </div>
