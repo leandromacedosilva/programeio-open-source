@@ -1,7 +1,7 @@
 # Hello developers, i am Leandro
 ## Eis aqui minha vida no Github, sejam bem-vidos ao meu repositório! É um prezer tê-los aqui
 # Minhas stacks
-1. stacks Fontend
+1. stacks Frontend
 <div>
 
 ![Badge](https://img.shields.io/static/v1?label=HTML&message=Stack-FrontEnd&color=orange&style=for-the-badge&logo=HTML)
