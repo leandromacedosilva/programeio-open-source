@@ -1,7 +1,6 @@
-<h1>Hello developers, i am Leandro<h1>
-<p>Eis aqui minha vida no Github, sejam bem-vidos ao meu repositório! É um prezer tê-los aqui</p>
-<h3>Minhas stacks</h3>
-
+# Hello developers, i am Leandro
+## Eis aqui minha vida no Github, sejam bem-vidos ao meu repositório! É um prezer tê-los aqui
+# Minhas stacks
 <div>
 
 ![Badge](https://img.shields.io/static/v1?label=HTML&message=Stack-FrontEnd&color=orange&style=for-the-badge&logo=HTML)
