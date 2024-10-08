@@ -12,7 +12,9 @@
 2. stacks Backend
 
 ![Badge](https://img.shields.io/static/v1?label=Javascript&message=Stack-BackEnd&color=yellow&style=for-the-badge&logo=JS)
-![Badge](https://img.shields.io/static/v1?label=Java&message=Stack-BackEnd&color=yellow&style=for-the-badge&logo=JS)
-![Badge](https://img.shields.io/static/v1?label=SQL&message=Stack-BackEnd&color=yellow&style=for-the-badge&logo=JS)
+![Badge](https://img.shields.io/static/v1?label=Java&message=Stack-BackEnd&color=amber&style=for-the-badge&logo=JS)
+![Badge](https://img.shields.io/static/v1?label=SQL&message=Stack-BackEnd&color=stone&style=for-the-badge&logo=JS)
+![Badge](https://img.shields.io/static/v1?label=PostGreSQL&message=Stack-BackEnd&color=emerald&style=for-the-badge&logo=JS)
+![Badge](https://img.shields.io/static/v1?label=MySQL&message=Stack-BackEnd&color=sky&style=for-the-badge&logo=JS)
 </div>
 
