@@ -18,8 +18,9 @@
 ![Badge](https://img.shields.io/static/v1?label=MySQL&message=Stack-BackEnd&color=sky&style=for-the-badge&logo=JS)
 </div>
 --
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=leandromacedosilva&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+<!-- visitantes -->
+<div align="left">
+  <img src="https://api.visitorbadge.io/api/visitors?path=leandromacedosilva&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Lenadro" height="40px" />
 </div>
 --
 <div>
