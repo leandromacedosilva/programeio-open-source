@@ -66,7 +66,7 @@
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandromacedosilva&theme=github_dark"/>
 </td>
 <td>
-<img alt="WakaTime" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+<img alt="WakaTime" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=leandromacedosilva&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
