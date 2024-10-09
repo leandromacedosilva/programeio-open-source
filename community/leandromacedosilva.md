@@ -17,15 +17,15 @@
 ![Badge](https://img.shields.io/static/v1?label=PostGreSQL&message=Stack-BackEnd&color=emerald&style=for-the-badge&logo=JS)
 ![Badge](https://img.shields.io/static/v1?label=MySQL&message=Stack-BackEnd&color=sky&style=for-the-badge&logo=JS)
 </div>
---
+
 <!-- visitantes -->
 <div align="left">
   <img src="https://api.visitorbadge.io/api/visitors?path=leandromacedosilva&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Lenadro" height="40px" />
 </div>
---
+
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/leandromacedosilva/leandromacedosilva/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
 <table>
