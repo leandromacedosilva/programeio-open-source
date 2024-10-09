@@ -21,7 +21,7 @@
 --
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/leandromacedosilva/leandromacedosilva/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
 <table>
