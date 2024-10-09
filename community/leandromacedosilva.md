@@ -1,3 +1,5 @@
+
+<html lang="pt-BR">
 # Hello developers, i am Leandro
 ## Eis aqui minha vida no Github, sejam bem-vidos ao meu repositório! É um prezer tê-los aqui
 # Minhas stacks
@@ -80,4 +82,4 @@
 </div>
 
 </div>
---
+</html>
