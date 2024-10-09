@@ -1,87 +1,53 @@
+  <strong>Hello, i am Leandro, an WEB programmer.</strong>
+  <!--<div align="center">
+  <a href="https://github.com/leandromacedosilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromacedosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedosilva&layout=compact&langs_count=7&theme=dracula"/>
+  </div>-->
+  <hr>
+  <div>
+  <a href="https://github.com/leandromacedosilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromacedosilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedosilva&layout=compact&langs_count=6&theme=tokyonight"/>
+  </div>
+  <div align="left">
+  <img src="https://api.visitorbadge.io/api/visitors?path=leandromacedosilva&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Leandro" height="30px" />
+  </div>
+  <strong>Competências</strong>(estudando)
+  
+  <div style="display: inline_block">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  </div>
 
+  ### Segue minhas redes.
+  <div> 
+  <a href="https://www.youtube.com/@leandromsilva" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/leandrhomacedosilva" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/_leandro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:iamfulldeveloper@gmail.com" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandromsilvasa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 
-# Hello developers, i am Leandro
-## Eis aqui minha vida no Github, sejam bem-vidos ao meu repositório! É um prezer tê-los aqui
-# Minhas stacks
-1. stacks Frontend
+<!-- # ------------------------------------------------------------------------------------------------------------------------------- # -->
 
-<html lang="pt-BR">
-<div>
+<!--
+### Hi there 👋
 
-![Badge](https://img.shields.io/static/v1?label=HTML&message=Stack-FrontEnd&color=orange&style=for-the-badge&logo=HTML)
-![Badge](https://img.shields.io/static/v1?label=CSS&message=Stack-FrontEnd&color=blue&style=for-the-badge&logo=CSS)
-![Badge](https://img.shields.io/static/v1?label=Javascript&message=Stack-FrontEnd&color=yellow&style=for-the-badge&logo=JS)
-![Badge](https://img.shields.io/static/v1?label=PrimeFaces&message=Stack-FrontEnd&color=yellow&style=for-the-badge&logo=JS)
+**leandromacedosilva/leandromacedosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-2. stacks Backend
+Here are some ideas to get you started:
 
-![Badge](https://img.shields.io/static/v1?label=Javascript&message=Stack-BackEnd&color=yellow&style=for-the-badge&logo=JS)
-![Badge](https://img.shields.io/static/v1?label=Java&message=Stack-BackEnd&color=amber&style=for-the-badge&logo=JS)
-![Badge](https://img.shields.io/static/v1?label=SQL&message=Stack-BackEnd&color=stone&style=for-the-badge&logo=JS)
-![Badge](https://img.shields.io/static/v1?label=PostGreSQL&message=Stack-BackEnd&color=emerald&style=for-the-badge&logo=JS)
-![Badge](https://img.shields.io/static/v1?label=MySQL&message=Stack-BackEnd&color=sky&style=for-the-badge&logo=JS)
-</div>
-
-<!-- visitantes -->
-<div align="left">
-  <img src="https://api.visitorbadge.io/api/visitors?path=leandromacedosilva&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Lenadro" height="40px" />
-</div>
-
-<div>
-
-### GitHub Stats:
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leandromacedosilva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedosilva&theme=dark&locale=pt-br&langs_count=7"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedosilva&layout=pie&theme=dark&locale=pt-br"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandromacedosilva&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leandromacedosilva&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandromacedosilva&theme=github_dark"/>
-</td>
-</tr>
-<tr>
-<td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leandromacedosilva&theme=github_dark&utcOffset=8"/>
-</td>
-<td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandromacedosilva&theme=github_dark"/>
-</td>
-<td>
-<img alt="WakaTime" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=leandromacedosilva&theme=dark&layout=compact"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-</div>
-
-</div>
-</html>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
